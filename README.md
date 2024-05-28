@@ -23,7 +23,7 @@
 
 </div>
 
-<details open>
+<details closed>
 <summary><strong>Tecnologias e Ferramentas</strong></summary>
 
 #### Linguagens, Frameworks e Bibliotecas
@@ -97,10 +97,10 @@
 
 </details>
 
-<details open>
+<details closed>
 <summary><strong>Habilidades e Técnicas</strong></summary>
 
-#### Arquitetura de Dados 
+#### --> Arquitetura de Dados 
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-%23ffffff.svg?style=flat&logo=Business_Intelligence&logoColor=black)
 ![Business Analytics](https://img.shields.io/badge/Business_Analytics-%23ffffff.svg?style=flat&logo=Business_Analytics&logoColor=black)
 
@@ -119,6 +119,175 @@
 
 </details>
 
+<details closed>
+<summary><strong>Educação</strong></summary>
+
+<br>
+
+**Educação (Doutorado)** \
+[**PUCPR**](https://www.pucpr.br/escola-de-educacao-e-humanidades/mestrado-doutorado/educacao/) • 2020 - 2023 \
+Tese: `Conflito de Papéis na Atuação do Professor como Gestor Universitário`
+
+<br/>
+
+**Administração (Mestrado)** \
+[**PUCPR**](https://www.pucpr.br/escola-de-negocios/mestrado-doutorado/administracao/) • 2024 - 2016 \
+Dissertação: `Acuracidade entre dois Modelos de Previsão Utilizando SARIMA e Redes Neurais de Wavelets para a Previsão de Series Temporais no Varejo Brasileiro`
+
+<br/>
+
+**Modelagem Estatística (Especialização)** \
+[**UEM**](https://des.uem.br/) • 2009 - 2011 \
+TCC: `Modelagem e Previsão de Vendas de Suco Light à Base de Soja a Partir da Metodologia de Box-Jenkins`
+
+<br/>
+
+**Docência no Ensino Superior (Especialização)** \
+[**UniCesumar**](https://www.unicesumar.edu.br/) • 2006 - 2007 \
+TCC: `Como usar a Informática como Recurso para o Ensino da Estatística`
+
+<br/>
+
+**Processamento de Dados (Graduação)** \
+[**UniCesumar**](https://www.unicesumar.edu.br/) • 2003 - 2005 \
+TCC: `SCPC - Sistema de Controle da Clínica de Psicologia do CESUMAR`
+
+<br/>
+
+    
+</details>
+
+<details closed>
+<summary><strong>Experiência</strong></summary>
+
+<br>
+
+**Consultor em Gestão Educacional** \
+[**Hama Educação **](https://www.hamaedu.com.br/) • nov 2023 - atual \
+    `Consultoria para a criação e a gestão de cursos superiores e de educação continuada, preparação para receber comissões de avaliação de cursos e instituições, apoio na regulação e planejamento estratégico, suporte ao processo de transformação digital e adoção de metodologias ágeis`
+
+<br/>
+
+
+**Consultor em Ciência de Dados** \
+[**CiênciaDeDados.org (autônomo)**](https://www.cienciadedados.org/) • mai 2005 - atual \
+    `Análise estatística para pesquisas quantitativas (TCC, Dissertações, Teses, pesquisas de mercado), utilizando SPSS, Statistica, R ou Python` \
+    `Consultoria para criação de estrutura de Inteligência de Negócio e processo de Transformação Digital (planejamento, implantação, diagnóstico e análise)`
+
+<br/>
+
+**Professor Universitário** \
+[**PUCPR**](https://www.pucpr.br/escola-de-negocios) • ago 2012 - atual \
+    `Professor em disciplinas de Estatística, Pesquisa Operacional, Ferramentas Digitais, Business Game, Raciocínio Algorítmico, Arquitetura de Dados, Business Intelligence, Previsão de Demanda, Séries Temporais, LGPD` \
+    `Coordenação do Trabalho de Conclusão de Curso`
+
+<br/>
+
+**Gestor Acadêmico** \
+[**PUCPR **](https://www.pucpr.br/) • fev 2008 – jan 2019 \
+    `Líder de ativação da Assessoria de Planejamento Acadêmico em projeto de seleção e implantação de sistema acadêmico` \
+    `Responsável pela criação de nova área para Governança de Cadastros (saneamento de dados, revisão de processos críticos e monitoramento dos cadastros de pessoas, cursos/ofertas e históricos)` \
+    `Coordenador de Registro Acadêmico na Diretoria de Administração da Graduação`
+
+<br/>
+
+**Professor Visitante** \
+[**FAFIMAN**](https://fafiman.br/) • mar 2008 – out 2009 \
+    `Professor das disciplinas de Informática como Recurso para o Ensino de Estatística, Tecnologias Aplicadas à Educação e Pesquisa na Educação no curso de Pós-graduação em Estatística Aplicada a Educação` \
+    `Professor da disciplina de Estatística Experimental no curso de Pós-graduação em Meio Ambiente e Recursos Hídricos`
+
+<br/>
+
+**Consultor em Gestão Educacional e Regulação** \
+**Autônomo** • jul 2005 – mar 2009 \
+    `Faculdade do Norte Novo de Apucarana – FACNOPAR (2005-2005)` \
+    `Faculdade do Noroeste do Paraná – FANP (2005-2006)` \
+    `Faculdade de Tecnologia e Ciências do Norte do Paraná – FATECI (2008-2009)`
+
+<br/>
+
+**Professor Visitante (EaD)** \
+[**UniCesumar**](https://www.unicesumar.edu.br/) • mar 2008 – fev 2009 \
+    `Professor em disciplinas de Estatística e Pesquisa Imobiliária, Informática Aplicada à Vendas e Estatística Aplicada no curso de Tecnologia em Gestão de Negócios Imobiliários` \
+    `Professor em disciplina de Informática Aplicada no curso de Tecnologia em Gestão de Varejo` \
+    `Professor em disciplina de Estatística Aplicada no curso de Tecnologia em Gestão Financeira`
+
+<br/>
+
+**Assessor da Diretoria Acadêmica** \
+**Faculdade Nobel** (comprada pela PUCPR) • fev 2006 – fev 2008 \
+    `Pesquisador Institucional; Assessor da Diretoria Acadêmica; Assessor de Legislação e Normas`
+
+<br/>
+
+**Técnico em TI** \
+[**UniCesumar**]() • fev 2002 – mai 2006 \
+    `Assistente de Legislação e Normas; Técnico em TI; Atendimento de Docentes e Coordenadores; Planejamento e Controle de Carga Horária Docente; Controle de Notas em Atraso; Suporte Acadêmico às Diretorias e Reitoria; Controle de Dados Docentes`
+
+<br/>
+
+
+</details>
+
+<details closed>
+<summary><strong>Publicações</strong></summary>
+
+<br>
+
+Artigo em periódico - [doi](https://link.springer.com/article/10.1057/s41270-022-00162-x) \
+`Does demand forecasting matter to retailing? Journal Of Marketing Analytics , v.11, p.219 - 232, 2022.`
+
+<br/>
+
+Trabalho em evento \
+`Assessment of Brazilian universities? internationalization indicators based on multiple criteria decision making In: International Conference on Production Research: ICPR 2021, 2021.`
+
+<br/>
+
+Trabalho em evento - [doi](https://doi.org/10.14488/ENEGEP2018_TN_STO_258_486_35823) \
+`Aplicação do método multicritério AHP na avaliação de programas de pós-graduação pela CAPES de uma Instituição de Ensino Superior do Paraná In: ENEGEP2018 Encontro Nacional de Engenharia de Produção, 2018.`
+
+<br/>
+
+Artigo em periódico - [url](https://www.revistaespacios.com/a16v37n07/163707e1.html) \
+`Integração de indicadores para avaliação do desempenho de uma instituição de ensino superior. ESPACIOS (CARACAS). , v.37, p.1 - 13, 2016.`
+
+<br/>
+
+Livro \
+`Estatística Aplicada usando Excel. Maringá: EDUEM, 2016.`
+
+<br/>
+
+Trabalho em evento \
+`Sistema especialista para gerenciamento de atribuição de carga horaria de professores, In: XXXIII International Sodebras Congress, 2015.`
+
+<br/>
+
+Artigo em periódico - [url](https://www.revistaespacios.com/a16v37n07/163707e1.html) \
+`Enterprise Architecture for Startups: A Case Study of an Entrepreneurial Small Food Company in Brazil. AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES. , v.9, p.101 - 110, 2015.`
+
+<br/>
+
+Trabalho em evento \
+`Diferentes Recursos para o Ensino da Estatística In: XI Encontro Nacional de Educação Matemática, 2013.`
+
+<br/>
+
+Trabalho em evento \
+`Food-intake profile in low-waged populations in southern Brazil In: 20th Congress International of Nutrition, 2013. `
+
+<br/>
+
+Trabalho em evento \
+`Predominance of low stature and associated factors in economically and socially vulnerable populations in southern Brazil In: 20th Congress International of Nutrition, 2013.`
+
+<br/>
+
+Trabalho em evento \
+`Linux e o usuário doméstico In: III Encontro de Produção Científica do Cesumar, 2003. `
+
+<br/>
 
 <!---
 WesleyInfoBr2/WesleyInfoBr2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
